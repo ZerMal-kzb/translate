@@ -207,6 +207,6 @@ exports.CALCULATOR = {
     PIN_MESSAGES: "标注信息",
     UNPIN_MESSAGES: "取消标注信息",
     VIEW_HISTORY: "查看历史",
-    EVADE_SANCTIONS: "Evade Sanctions"
+    EVADE_SANCTIONS: "避免惩罚"
   }
 };
