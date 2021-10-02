@@ -1,0 +1,11 @@
+{
+  "GUILD": "Guild",
+  "GUILDS": "Guilds",
+  "VERIFICATION_LEVEL": "Verification level",
+  "NSFW_LEVEL": "NSFW level",
+  "PREMIUM_TIER": "Premium tier",
+  "EXPLICIT_CONTENT_FILTER": "Explicit content filter",
+  "MEMBERS_WITHOUT_ROLES": "Members without roles",
+  "ALL_MEMBERS": "All members",
+  "MFA_LEVEL": "MFA level"
+}
